@@ -46,11 +46,6 @@ C'est un outil mono-utilisateur destiné au propriétaire de l'atelier. Il n'y a
 - **Langues** : arabe, français et anglais, modifiables depuis l'interface.
 - **Sauvegarde** : export et import de toute la base et des photos en un seul fichier.
 
-### Technologies
-
-- Flutter pour toutes les plateformes
-- SQLite via drift
-- Notifications locales pour les rappels de tâches
 
 ---
 
@@ -73,11 +68,5 @@ C'est un outil mono-utilisateur destiné au propriétaire de l'atelier. Il n'y a
 - **الصور**: صور اختيارية مرفقة بالآلات والإصلاحات.
 - **اللغات**: العربية والفرنسية والإنجليزية، قابلة للتغيير من الواجهة.
 - **النسخ الاحتياطي**: تصدير واستيراد كامل قاعدة البيانات والصور في ملف واحد.
-
-### التقنيات
-
-- Flutter لجميع المنصات
-- SQLite عبر drift
-- إشعارات محلية لتذكيرات المهام
 
 </div>
