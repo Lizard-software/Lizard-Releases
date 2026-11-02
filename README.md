@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="assets/logo/full-logo.png" alt="Lizard logo" width="180">
+    <img src="full-logo.png" alt="Lizard logo" width="180">
 </p>
 
 # Lizard
