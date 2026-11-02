@@ -26,12 +26,6 @@ It is a single-user tool for the workshop owner. There is no account, no sign-up
 - **Languages**: Arabic, French and English, switchable from the interface.
 - **Backup**: export and import of the whole database and photos as a single file.
 
-### Stack
-
-- Flutter for all platforms
-- SQLite through drift
-- Local notifications for task reminders
-
 ---
 
 ## Français
